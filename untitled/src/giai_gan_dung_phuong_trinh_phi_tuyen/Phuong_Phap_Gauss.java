@@ -1,6 +1,6 @@
 package giai_gan_dung_phuong_trinh_phi_tuyen;
 
-public class GaussianElimination {
+public class Phuong_Phap_Gauss {
     // This is the problem we solved in class
     private static double[][] problem1 = {
             // x = 1, y = 2, z = 3
