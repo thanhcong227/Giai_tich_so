@@ -1,6 +1,6 @@
-package giai_gan_dung_phuong_trinh_phi_tuyen;
+package giai_he_phuong_trinh;
 
-public class Phuong_Phap_LU {
+public class LU {
     public static void main(String[] args) {
         double c;
         int n = 3;

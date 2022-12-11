@@ -1,7 +1,8 @@
-package giai_gan_dung_phuong_trinh_phi_tuyen;
+package giai_he_phuong_trinh;
 
-public class Phuong_Phap_Gauss {
-    // This is the problem we solved in class
+public class Gauss {
+
+    //Khai báo ma trận đã cho
     private static double[][] problem1 = {
             // x = 1, y = 2, z = 3
             { 1,  2, 3, 14 },  // 1x + 2y + 3z = 14

@@ -2,7 +2,7 @@ package giai_gan_dung_phuong_trinh_phi_tuyen;
 
 import java.util.Scanner;
 
-public class Phuong_Phap_Chia_Doi {
+public class Chia_doi {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         System.out.print("a = ");
@@ -23,6 +23,7 @@ public class Phuong_Phap_Chia_Doi {
     }
 
     public static double f(double x) {
+        //Định nghĩa làm f(x)
         double f_x = Math.pow(x, 4) + 2 * Math.pow(x, 3) - x - 1;
         return f_x;
     }
